@@ -7,16 +7,16 @@ Welcome to the recap of our recent AWS Tech Sharing session focused on **Amazon 
 
 ---
 
-## 📌 1. Traditional vs Microservices Architecture
+## 1. Traditional vs Microservices Architecture
 
-### 🏗️ Traditional Architecture
+###  Traditional Architecture
 
 Applications are built as a single, tightly coupled unit where all components are deployed together.
 
 <img width="301" height="272" alt="image" src="https://github.com/user-attachments/assets/cd2f3ff2-6d5f-4a55-ad2c-5e327bafe86f" />
 
 
-### 🧩 Microservices Architecture
+### Microservices Architecture
 
 Applications are split into small, independent services that communicate via APIs and can be deployed individually.
 
@@ -29,7 +29,7 @@ Applications are split into small, independent services that communicate via API
 
 ---
 
-## 📦 2. What Is a Container or Image?
+## 2. What Is a Container or Image?
 
 Containers package code, runtime, tools, and dependencies. They are built from read-only **images**.
 
@@ -46,7 +46,7 @@ Containers package code, runtime, tools, and dependencies. They are built from r
 
 ---
 
-## 🚀 3. What Does Amazon ECS Do?
+## 3. What Does Amazon ECS Do?
 
 Amazon ECS is a **fully managed container orchestration service** that lets you:
 
@@ -57,7 +57,7 @@ Amazon ECS is a **fully managed container orchestration service** that lets you:
 
 ---
 
-## 🛠️ 4. Key Technical Concepts
+##  4. Key Technical Concepts
 
 ### 🔹 Cluster
 A logical grouping of services or tasks. With Fargate, infrastructure is abstracted.
@@ -80,7 +80,7 @@ Ensures the desired number of tasks are always running. Auto-replaces unhealthy 
      
 ---
 
-## 🧠 5. Benefits of Using Amazon ECS
+## 5. Benefits of Using Amazon ECS
 
 ### ✅ Fully Managed
 ECS handles the orchestration—no need to manage control plane components.
@@ -102,7 +102,7 @@ ECS connects natively with:
 
 ---
 
-## 💲 6. ECS Launch Type Options
+## 6. ECS Launch Type Options
 
 ### EC2 Launch Type
 * Run ECS tasks on your managed EC2 fleet
@@ -115,7 +115,7 @@ ECS connects natively with:
 
 ---
 
-## 🔍 7. Common Use Cases
+## 7. Common Use Cases
 
 ### Batch Processing
 Plan, schedule, and run batch jobs using ECS with EC2/Fargate/Spot Instances.
@@ -128,7 +128,7 @@ Use **ECS Anywhere** for on-premise + cloud deployments with unified tooling and
 
 ---
 
-## 📺 8. Video Reference
+##  8. Video Reference
 
 A walkthrough recording and demo is available on YouTube:
 https://www.youtube.com/watch?v=bAMrp8KW3Js&feature=youtu.be
