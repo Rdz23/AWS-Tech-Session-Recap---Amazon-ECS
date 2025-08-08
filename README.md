@@ -25,7 +25,7 @@ Applications are split into small, independent services that communicate via API
 * One failure won't bring down the entire app
 
 🛠️ Container technology is essential to achieving microservices at scale.
-<img width="761" height="871" alt="image" src="https://github.com/user-attachments/assets/2506a019-9e9c-4a3d-b07b-f322a0228e8c" />
+<img width="561" height="671" alt="image" src="https://github.com/user-attachments/assets/2506a019-9e9c-4a3d-b07b-f322a0228e8c" />
 
 ---
 
