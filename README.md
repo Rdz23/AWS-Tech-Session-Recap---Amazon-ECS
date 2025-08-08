@@ -1,12 +1,9 @@
-# AWS-Tech-Session-Recap---Amazon-ECS
-AWS Tech Session Recap - Amazon ECS (May 22, 2025)
-
 # AWS Tech Session Recap – Amazon ECS
 
 Welcome to the recap of our recent AWS Tech Sharing session focused on **Amazon ECS (Elastic Container Service)**.
 
-**👥 Audience:** Developers, QA Engineers, UI/UX Designers, DevOps & Cloud Engineers
-**🎯 Topic:** Modernizing application deployment using containerized architecture with Amazon ECS
+** Audience:** Developers, QA Engineers, UI/UX Designers, DevOps & Cloud Engineers
+** Topic:** Modernizing application deployment using containerized architecture with Amazon ECS
 
 ---
 
@@ -59,23 +56,18 @@ Amazon ECS is a **fully managed container orchestration service** that lets you:
 ## 🛠️ 4. Key Technical Concepts
 
 ### 🔹 Cluster
-
 A logical grouping of services or tasks. With Fargate, infrastructure is abstracted.
 
 ### 🔹 Image & Container
-
 Containers run from immutable images (stored in **ECR**) that include all necessary code and dependencies.
 
 ### 🔹 Task Definition
-
 Blueprint for launching containers: image, CPU/memory, environment, ports, etc.
 
 ### 🔹 Task
-
 A running instance of a task definition. It may consist of one or more containers.
 
 ### 🔹 Service
-
 Ensures the desired number of tasks are always running. Auto-replaces unhealthy tasks.
 
 ---
@@ -83,17 +75,14 @@ Ensures the desired number of tasks are always running. Auto-replaces unhealthy 
 ## 🧠 5. Benefits of Using Amazon ECS
 
 ### ✅ Fully Managed
-
 ECS handles the orchestration—no need to manage control plane components.
 
 ### ✅ Fargate Integration
-
 * Serverless compute for containers
 * No EC2 to manage
 * Enhanced security and resource isolation
 
 ### ✅ Deep AWS Integrations
-
 ECS connects natively with:
 
 * Elastic Load Balancing
@@ -107,13 +96,11 @@ ECS connects natively with:
 
 ## 💲 6. ECS Launch Type Options
 
-### 🖥️ EC2 Launch Type
-
+### EC2 Launch Type
 * Run ECS tasks on your managed EC2 fleet
 * Full infrastructure control and visibility
 
-### ☁️ Fargate Launch Type
-
+### Fargate Launch Type
 * AWS-managed serverless infrastructure
 * Focus only on task/container config
 * Simplifies scaling and cost management
@@ -122,16 +109,13 @@ ECS connects natively with:
 
 ## 🔍 7. Common Use Cases
 
-### 📊 Batch Processing
-
+### Batch Processing
 Plan, schedule, and run batch jobs using ECS with EC2/Fargate/Spot Instances.
 
-### 🌐 Scalable Web Apps
-
+###  Scalable Web Apps
 Deploy scalable web services across multiple AZs with built-in HA and autoscaling.
 
-### 🏭 Hybrid Deployments
-
+###  Hybrid Deployments
 Use **ECS Anywhere** for on-premise + cloud deployments with unified tooling and visibility.
 
 ---
@@ -139,27 +123,26 @@ Use **ECS Anywhere** for on-premise + cloud deployments with unified tooling and
 ## 📺 8. Video Reference
 
 A walkthrough recording is available on YouTube:
-➡️ *(Link to be added)*
+➡️ https://www.youtube.com/watch?v=bAMrp8KW3Js&feature=youtu.be
 
 ---
 
 ## 🙌 Thank You
 
-This document is part of the internal AWS Tech Sharing series. Stay tuned for future sessions!
+This document is part of the AWS Tech Sharing series. Stay tuned for future sessions!
 
 ---
 
 ### 📎 Resources:
 
 * [Amazon ECS Documentation](https://docs.aws.amazon.com/ecs/)
-* [AWS Fargate](https://aws.amazon.com/fargate/)
 * [ECR (Elastic Container Registry)](https://aws.amazon.com/ecr/)
 * [Containers on AWS](https://aws.amazon.com/containers/)
-
+* [AWS Fargate](https://aws.amazon.com/fargate/)
 ---
 
 > 📘 *Feel free to fork this repo or submit improvements!*
 
 ---
 
-© 2025 AWS Tech Sharing | Maintained by Cloud Engineering Team
+© 2025 AWS Tech Sharing
