@@ -13,7 +13,8 @@ Welcome to the recap of our recent AWS Tech Sharing session focused on **Amazon 
 
 Applications are built as a single, tightly coupled unit where all components are deployed together.
 
-> *(Diagram to be added)*
+<img width="501" height="472" alt="image" src="https://github.com/user-attachments/assets/cd2f3ff2-6d5f-4a55-ad2c-5e327bafe86f" />
+
 
 ### 🧩 Microservices Architecture
 
