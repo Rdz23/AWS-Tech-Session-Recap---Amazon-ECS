@@ -25,7 +25,7 @@ Applications are split into small, independent services that communicate via API
 * One failure won't bring down the entire app
 
 🛠️ Container technology is essential to achieving microservices at scale.
-<img width="361" height="471" alt="image" src="https://github.com/user-attachments/assets/2506a019-9e9c-4a3d-b07b-f322a0228e8c" />
+<img width="261" height="371" alt="image" src="https://github.com/user-attachments/assets/2506a019-9e9c-4a3d-b07b-f322a0228e8c" />
 
 ---
 
@@ -41,7 +41,7 @@ Containers package code, runtime, tools, and dependencies. They are built from r
 * Faster deployments
 * Efficient resource utilization
 
-<img width="592" height="407" alt="image" src="https://github.com/user-attachments/assets/64f2ab06-bd7b-4688-8a28-6db7bff35031" />
+<img width="392" height="207" alt="image" src="https://github.com/user-attachments/assets/64f2ab06-bd7b-4688-8a28-6db7bff35031" />
 
 
 ---
@@ -53,7 +53,7 @@ Amazon ECS is a **fully managed container orchestration service** that lets you:
 * Deploy, run, and manage containers
 * Use either **EC2** or **Fargate** for compute
 * Integrate with AWS services for monitoring, scaling, and security
-<img width="307" height="308" alt="image" src="https://github.com/user-attachments/assets/7c23a053-fe07-4c19-a8bd-544ebebbdf2e" />
+<img width="207" height="208" alt="image" src="https://github.com/user-attachments/assets/7c23a053-fe07-4c19-a8bd-544ebebbdf2e" />
 
 ---
 
