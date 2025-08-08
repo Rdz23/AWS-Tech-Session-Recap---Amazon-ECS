@@ -25,6 +25,7 @@ Applications are split into small, independent services that communicate via API
 * One failure won't bring down the entire app
 
 🛠️ Container technology is essential to achieving microservices at scale.
+<img width="761" height="871" alt="image" src="https://github.com/user-attachments/assets/2506a019-9e9c-4a3d-b07b-f322a0228e8c" />
 
 ---
 
@@ -40,7 +41,8 @@ Containers package code, runtime, tools, and dependencies. They are built from r
 * Faster deployments
 * Efficient resource utilization
 
-> *(Diagram to be added)*
+<img width="592" height="407" alt="image" src="https://github.com/user-attachments/assets/64f2ab06-bd7b-4688-8a28-6db7bff35031" />
+
 
 ---
 
@@ -51,6 +53,7 @@ Amazon ECS is a **fully managed container orchestration service** that lets you:
 * Deploy, run, and manage containers
 * Use either **EC2** or **Fargate** for compute
 * Integrate with AWS services for monitoring, scaling, and security
+<img width="307" height="308" alt="image" src="https://github.com/user-attachments/assets/7c23a053-fe07-4c19-a8bd-544ebebbdf2e" />
 
 ---
 
@@ -70,6 +73,8 @@ A running instance of a task definition. It may consist of one or more container
 
 ### 🔹 Service
 Ensures the desired number of tasks are always running. Auto-replaces unhealthy tasks.
+
+      <img width="632" height="396" alt="image" src="https://github.com/user-attachments/assets/89737177-3b44-4421-9bbc-e1c8727ae20c" />
 
 ---
 
@@ -123,7 +128,7 @@ Use **ECS Anywhere** for on-premise + cloud deployments with unified tooling and
 
 ## 📺 8. Video Reference
 
-A walkthrough recording is available on YouTube:
+A walkthrough recording and demo is available on YouTube:
 https://www.youtube.com/watch?v=bAMrp8KW3Js&feature=youtu.be
 
 ---
