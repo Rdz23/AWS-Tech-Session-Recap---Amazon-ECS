@@ -74,8 +74,10 @@ A running instance of a task definition. It may consist of one or more container
 ### 🔹 Service
 Ensures the desired number of tasks are always running. Auto-replaces unhealthy tasks.
 
-      <img width="632" height="396" alt="image" src="https://github.com/user-attachments/assets/89737177-3b44-4421-9bbc-e1c8727ae20c" />
+<img width="632" height="396" alt="image" src="https://github.com/user-attachments/assets/e41349ef-8718-4b83-a1f2-463b290b2d7c" />
 
+
+     
 ---
 
 ## 🧠 5. Benefits of Using Amazon ECS
