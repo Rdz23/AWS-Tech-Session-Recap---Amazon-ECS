@@ -23,8 +23,8 @@ Applications are split into small, independent services that communicate via API
 * Each service can scale independently
 * Enhances development speed and resilience
 * One failure won't bring down the entire app
-
 🛠️ Container technology is essential to achieving microservices at scale.
+
 <img width="261" height="271" alt="image" src="https://github.com/user-attachments/assets/2506a019-9e9c-4a3d-b07b-f322a0228e8c" />
 
 ---
