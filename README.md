@@ -74,7 +74,7 @@ A running instance of a task definition. It may consist of one or more container
 ### 🔹 Service
 Ensures the desired number of tasks are always running. Auto-replaces unhealthy tasks.
 
-<img width="332" height="96" alt="image" src="https://github.com/user-attachments/assets/e41349ef-8718-4b83-a1f2-463b290b2d7c" />
+<img width="332" height="196" alt="image" src="https://github.com/user-attachments/assets/e41349ef-8718-4b83-a1f2-463b290b2d7c" />
 
 
      
