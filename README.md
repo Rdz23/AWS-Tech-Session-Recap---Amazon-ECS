@@ -130,14 +130,15 @@ Use **ECS Anywhere** for on-premise + cloud deployments with unified tooling and
 
 ##  8. Video Reference
 
-A walkthrough recording and demo is available on YouTube:
+A walkthrough recording and demo is available on YouTube: \
 https://www.youtube.com/watch?v=bAMrp8KW3Js&feature=youtu.be
 
 ---
 
 ## 🙌 Thank You
 
-This document is part of the AWS Tech Sharing series. Stay tuned for future sessions!
+This document is part of the AWS Tech Sharing series. \
+Stay tuned for future sessions!
 
 ---
 
